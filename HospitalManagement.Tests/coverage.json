@@ -1,0 +1,2037 @@
+{
+  "HospitalManagement.Domain.dll": {
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Repositories/AppointmentRepository.cs": {
+      "HospitalManagement.Domain.Repositories.AppointmentRepository": {
+        "System.Void HospitalManagement.Domain.Repositories.AppointmentRepository::.ctor(HospitalManagement.Domain.Context.DBContext)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.AppointmentRepository/<AddApointment>d__2": {
+        "System.Void HospitalManagement.Domain.Repositories.AppointmentRepository/<AddApointment>d__2::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.AppointmentRepository/<DeleteAppointment>d__3": {
+        "System.Void HospitalManagement.Domain.Repositories.AppointmentRepository/<DeleteAppointment>d__3::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.AppointmentRepository/<GetAppointmentByID>d__4": {
+        "System.Void HospitalManagement.Domain.Repositories.AppointmentRepository/<GetAppointmentByID>d__4::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.AppointmentRepository/<GetAppointments>d__5": {
+        "System.Void HospitalManagement.Domain.Repositories.AppointmentRepository/<GetAppointments>d__5::MoveNext()": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Repositories/DoctorRepository.cs": {
+      "HospitalManagement.Domain.Repositories.DoctorRepository": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository::.ctor(HospitalManagement.Domain.Context.DBContext)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.DoctorRepository/<AddDoctor>d__2": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository/<AddDoctor>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.DoctorRepository/<DeleteDoctor>d__3": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository/<DeleteDoctor>d__3::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.DoctorRepository/<EditDoctor>d__4": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository/<EditDoctor>d__4::MoveNext()": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.DoctorRepository/<GetAllDoctors>d__5": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository/<GetAllDoctors>d__5::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.DoctorRepository/<GetDoctorByID>d__6": {
+        "System.Void HospitalManagement.Domain.Repositories.DoctorRepository/<GetDoctorByID>d__6::MoveNext()": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Repositories/PatientRepository.cs": {
+      "HospitalManagement.Domain.Repositories.PatientRepository": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository::.ctor(HospitalManagement.Domain.Context.DBContext)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.PatientRepository/<AddPatient>d__2": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository/<AddPatient>d__2::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.PatientRepository/<DeletePatient>d__3": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository/<DeletePatient>d__3::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.PatientRepository/<EditPatient>d__4": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository/<EditPatient>d__4::MoveNext()": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.PatientRepository/<GetAllPatients>d__5": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository/<GetAllPatients>d__5::MoveNext()": {
+          "Lines": {
+            "57": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Domain.Repositories.PatientRepository/<GetPatientByID>d__6": {
+        "System.Void HospitalManagement.Domain.Repositories.PatientRepository/<GetPatientByID>d__6::MoveNext()": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Models/Appointment.cs": {
+      "HospitalManagement.Domain.Models.Appointment": {
+        "System.Guid HospitalManagement.Domain.Models.Appointment::get_Token()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Appointment::get_DoctorName()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Appointment::get_PatientName()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Appointment::get_Description()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> HospitalManagement.Domain.Models.Appointment::get_AppointmentDate()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean HospitalManagement.Domain.Models.Appointment::get_isPaid()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Models/Doctor.cs": {
+      "HospitalManagement.Domain.Models.Doctor": {
+        "System.Guid HospitalManagement.Domain.Models.Doctor::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Doctor::get_Name()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> HospitalManagement.Domain.Models.Doctor::get_DOB()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> HospitalManagement.Domain.Models.Doctor::get_Experience()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Doctor::get_Specialization()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Doctor::get_Email()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int64> HospitalManagement.Domain.Models.Doctor::get_MobileNumber()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Doctor::get_Password()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Models/Patient.cs": {
+      "HospitalManagement.Domain.Models.Patient": {
+        "System.Guid HospitalManagement.Domain.Models.Patient::get_Id()": {
+          "Lines": {
+            "10": 30
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Name()": {
+          "Lines": {
+            "13": 12
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> HospitalManagement.Domain.Models.Patient::get_DOB()": {
+          "Lines": {
+            "16": 10
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Gender()": {
+          "Lines": {
+            "17": 9
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Address()": {
+          "Lines": {
+            "18": 9
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int64> HospitalManagement.Domain.Models.Patient::get_MobileNumber()": {
+          "Lines": {
+            "21": 9
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Email()": {
+          "Lines": {
+            "25": 10
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Description()": {
+          "Lines": {
+            "26": 10
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Patient::get_Password()": {
+          "Lines": {
+            "30": 9
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Models/Authentication/Authentication.cs": {
+      "HospitalManagement.Domain.Models.Authentication.Authentication": {
+        "System.String HospitalManagement.Domain.Models.Authentication.Authentication::get_Key()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Authentication.Authentication::get_Issuer()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Authentication.Authentication::get_Audience()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Models.Authentication.Authentication::get_Subject()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Migrations/20221127195746_HospitalDetails.cs": {
+      "HospitalManagement.Domain.Migrations.HospitalDetails": {
+        "System.Void HospitalManagement.Domain.Migrations.HospitalDetails::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Domain.Migrations.HospitalDetails::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Migrations/20221127195746_HospitalDetails.Designer.cs": {
+      "HospitalManagement.Domain.Migrations.HospitalDetails": {
+        "System.Void HospitalManagement.Domain.Migrations.HospitalDetails::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "153": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Migrations/20221221110637_HospitalMigrations.cs": {
+      "HospitalManagement.Domain.Migrations.HospitalMigrations": {
+        "System.Void HospitalManagement.Domain.Migrations.HospitalMigrations::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "12": 0,
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Domain.Migrations.HospitalMigrations::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "18": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Migrations/20221221110637_HospitalMigrations.Designer.cs": {
+      "HospitalManagement.Domain.Migrations.HospitalMigrations": {
+        "System.Void HospitalManagement.Domain.Migrations.HospitalMigrations::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "153": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Migrations/DBContextModelSnapshot.cs": {
+      "HospitalManagement.Domain.Migrations.DBContextModelSnapshot": {
+        "System.Void HospitalManagement.Domain.Migrations.DBContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "150": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Entities/AppointmentEntity.cs": {
+      "HospitalManagement.Domain.Entities.AppointmentEntity": {
+        "System.Guid HospitalManagement.Domain.Entities.AppointmentEntity::get_Token()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.AppointmentEntity::get_DoctorName()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.AppointmentEntity::get_PatientName()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> HospitalManagement.Domain.Entities.AppointmentEntity::get_AppointmentDate()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean HospitalManagement.Domain.Entities.AppointmentEntity::get_isPaid()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Entities/DoctorEntity.cs": {
+      "HospitalManagement.Domain.Entities.DoctorEntity": {
+        "System.String HospitalManagement.Domain.Entities.DoctorEntity::get_Name()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.DoctorEntity::get_Email()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> HospitalManagement.Domain.Entities.DoctorEntity::get_Experience()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.DoctorEntity::get_Specialization()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Entities/PatientEntity.cs": {
+      "HospitalManagement.Domain.Entities.PatientEntity": {
+        "System.Guid HospitalManagement.Domain.Entities.PatientEntity::get_Id()": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.PatientEntity::get_Name()": {
+          "Lines": {
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> HospitalManagement.Domain.Entities.PatientEntity::get_DOB()": {
+          "Lines": {
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.PatientEntity::get_Email()": {
+          "Lines": {
+            "19": 1
+          },
+          "Branches": []
+        },
+        "System.String HospitalManagement.Domain.Entities.PatientEntity::get_Description()": {
+          "Lines": {
+            "21": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Domain/Context/DBContext.cs": {
+      "HospitalManagement.Domain.Context.DBContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<HospitalManagement.Domain.Models.Patient> HospitalManagement.Domain.Context.DBContext::get_PatientModel()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<HospitalManagement.Domain.Models.Doctor> HospitalManagement.Domain.Context.DBContext::get_DoctorModel()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<HospitalManagement.Domain.Models.Appointment> HospitalManagement.Domain.Context.DBContext::get_AppointmentModel()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Domain.Context.DBContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "HospitalManagement.Api.dll": {
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0
+          },
+          "Branches": [
+            {
+              "Line": 106,
+              "Offset": 366,
+              "EndOffset": 368,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 106,
+              "Offset": 366,
+              "EndOffset": 386,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Mappings/Mapping.cs": {
+      "HospitalManagement.Api.Mappings.Mapping": {
+        "System.Void HospitalManagement.Api.Mappings.Mapping::.ctor()": {
+          "Lines": {
+            "16": 9,
+            "17": 9,
+            "18": 9,
+            "19": 9,
+            "20": 9,
+            "22": 9
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Handler/CustomHttpException.cs": {
+      "HospitalManagement.Api.Handler.CustomHttpException": {
+        "System.Void HospitalManagement.Api.Handler.CustomHttpException::.ctor()": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Handler.CustomHttpException::.ctor(System.String)": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 4
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Handler.CustomHttpException::.ctor(System.String,System.Exception,System.Int32)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Handler.CustomHttpException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Handler.CustomHttpException::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "25": 4,
+            "26": 4,
+            "27": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Controllers/AppointmentController.cs": {
+      "HospitalManagement.Api.Controllers.AppointmentController": {
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Appointment> HospitalManagement.Api.Controllers.AppointmentController::ViewAppointmentByID(System.Guid)": {
+          "Lines": {
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Appointment> HospitalManagement.Api.Controllers.AppointmentController::AddAppointment(HospitalManagement.Domain.Models.Appointment)": {
+          "Lines": {
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Appointment> HospitalManagement.Api.Controllers.AppointmentController::DeleteAppointment(System.Guid)": {
+          "Lines": {
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Controllers.AppointmentController::.ctor(HospitalManagement.Domain.Interfaces.IAppointmentRepository,AutoMapper.IMapper,HospitalManagement.Domain.Context.DBContext)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.AppointmentController/<ViewAppointments>d__3": {
+        "System.Void HospitalManagement.Api.Controllers.AppointmentController/<ViewAppointments>d__3::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Controllers/AuthenticationController.cs": {
+      "HospitalManagement.Api.Controllers.AuthenticationController": {
+        "System.Void HospitalManagement.Api.Controllers.AuthenticationController::.ctor(HospitalManagement.Domain.Context.DBContext,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Controllers.AuthenticationController::.cctor()": {
+          "Lines": {
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.AuthenticationController/<GenerateToken>d__5": {
+        "System.Void HospitalManagement.Api.Controllers.AuthenticationController/<GenerateToken>d__5::MoveNext()": {
+          "Lines": {
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "70": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 28,
+              "EndOffset": 30,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 20,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 28,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 44,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 216,
+              "EndOffset": 221,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 216,
+              "EndOffset": 598,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 44,
+              "EndOffset": 623,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "HospitalManagement.Api.Controllers.AuthenticationController/<GetUserInfo1>d__7": {
+        "System.Void HospitalManagement.Api.Controllers.AuthenticationController/<GetUserInfo1>d__7::MoveNext()": {
+          "Lines": {
+            "89": 0,
+            "90": 0,
+            "91": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.AuthenticationController/<GetUserInfo>d__6": {
+        "System.Void HospitalManagement.Api.Controllers.AuthenticationController/<GetUserInfo>d__6::MoveNext()": {
+          "Lines": {
+            "82": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Controllers/DoctorController.cs": {
+      "HospitalManagement.Api.Controllers.DoctorController": {
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Doctor> HospitalManagement.Api.Controllers.DoctorController::AddDoctor(HospitalManagement.Domain.Models.Doctor)": {
+          "Lines": {
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Doctor> HospitalManagement.Api.Controllers.DoctorController::EditPatient(System.Guid,HospitalManagement.Domain.Models.Doctor)": {
+          "Lines": {
+            "72": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<HospitalManagement.Domain.Models.Doctor> HospitalManagement.Api.Controllers.DoctorController::DeletePatient(System.Guid)": {
+          "Lines": {
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "94": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Api.Controllers.DoctorController::.ctor(HospitalManagement.Domain.Context.DBContext,HospitalManagement.Domain.Interfaces.IDoctorRepository,AutoMapper.IMapper)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.DoctorController/<ViewDoctor>d__4": {
+        "System.Void HospitalManagement.Api.Controllers.DoctorController/<ViewDoctor>d__4::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.DoctorController/<ViewDoctors>d__3": {
+        "System.Void HospitalManagement.Api.Controllers.DoctorController/<ViewDoctors>d__3::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Api/Controllers/PatientController.cs": {
+      "HospitalManagement.Api.Controllers.PatientController": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController::.ctor(HospitalManagement.Domain.Interfaces.IPatientRepository,AutoMapper.IMapper)": {
+          "Lines": {
+            "25": 9,
+            "26": 9,
+            "27": 9,
+            "28": 9,
+            "29": 9
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.PatientController/<AddPatients>d__5": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController/<AddPatients>d__5::MoveNext()": {
+          "Lines": {
+            "82": 2,
+            "83": 2,
+            "84": 2,
+            "85": 1,
+            "86": 1,
+            "89": 1,
+            "90": 1
+          },
+          "Branches": [
+            {
+              "Line": 84,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 84,
+              "Offset": 164,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "HospitalManagement.Api.Controllers.PatientController/<DeletePatient>d__7": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController/<DeletePatient>d__7::MoveNext()": {
+          "Lines": {
+            "120": 2,
+            "121": 2,
+            "122": 2,
+            "123": 1,
+            "124": 1,
+            "126": 1,
+            "127": 1
+          },
+          "Branches": [
+            {
+              "Line": 122,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 122,
+              "Offset": 164,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "HospitalManagement.Api.Controllers.PatientController/<EditPatient>d__6": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController/<EditPatient>d__6::MoveNext()": {
+          "Lines": {
+            "102": 2,
+            "103": 2,
+            "104": 2,
+            "105": 1,
+            "106": 1,
+            "108": 1,
+            "109": 1
+          },
+          "Branches": [
+            {
+              "Line": 104,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 104,
+              "Offset": 170,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "HospitalManagement.Api.Controllers.PatientController/<ViewAllPatients>d__3": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController/<ViewAllPatients>d__3::MoveNext()": {
+          "Lines": {
+            "39": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 1
+          },
+          "Branches": []
+        }
+      },
+      "HospitalManagement.Api.Controllers.PatientController/<ViewPatient>d__4": {
+        "System.Void HospitalManagement.Api.Controllers.PatientController/<ViewPatient>d__4::MoveNext()": {
+          "Lines": {
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 1,
+            "66": 1,
+            "69": 1,
+            "70": 1
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 64,
+              "Offset": 164,
+              "EndOffset": 192,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "HospitalManagement.Client.dll": {
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "1": 0,
+            "4": 0,
+            "6": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 42,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 42,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Error.cshtml.cs": {
+      "HospitalManagement.Client.Pages.ErrorModel": {
+        "System.String HospitalManagement.Client.Pages.ErrorModel::get_RequestId()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean HospitalManagement.Client.Pages.ErrorModel::get_ShowRequestId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Client.Pages.ErrorModel::OnGet()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 20,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void HospitalManagement.Client.Pages.ErrorModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<HospitalManagement.Client.Pages.ErrorModel>)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Index.cshtml.cs": {
+      "HospitalManagement.Client.Pages.IndexModel": {
+        "System.Void HospitalManagement.Client.Pages.IndexModel::OnGet()": {
+          "Lines": {
+            "16": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Client.Pages.IndexModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<HospitalManagement.Client.Pages.IndexModel>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Privacy.cshtml.cs": {
+      "HospitalManagement.Client.Pages.PrivacyModel": {
+        "System.Void HospitalManagement.Client.Pages.PrivacyModel::OnGet()": {
+          "Lines": {
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void HospitalManagement.Client.Pages.PrivacyModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<HospitalManagement.Client.Pages.PrivacyModel>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Error.cshtml": {
+      "HospitalManagement.Client.Pages.Pages_Error/<ExecuteAsync>d__0": {
+        "System.Void HospitalManagement.Client.Pages.Pages_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "15": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 70,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Index.cshtml": {
+      "HospitalManagement.Client.Pages.Pages_Index/<ExecuteAsync>d__0": {
+        "System.Void HospitalManagement.Client.Pages.Pages_Index/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Privacy.cshtml": {
+      "HospitalManagement.Client.Pages.Pages_Privacy/<ExecuteAsync>d__0": {
+        "System.Void HospitalManagement.Client.Pages.Pages_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/_ViewStart.cshtml": {
+      "HospitalManagement.Client.Pages.Pages__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void HospitalManagement.Client.Pages.Pages__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/Pages/Shared/_Layout.cshtml": {
+      "HospitalManagement.Client.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__24_0>d": {
+        "System.Void HospitalManagement.Client.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__24_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0,
+            "8": 0,
+            "9": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 443,
+              "EndOffset": 445,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 443,
+              "EndOffset": 556,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 8,
+              "Offset": 1088,
+              "EndOffset": 1090,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 8,
+              "Offset": 1088,
+              "EndOffset": 1201,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 1733,
+              "EndOffset": 1735,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 1733,
+              "EndOffset": 1846,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "HospitalManagement.Client.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__24_1>d": {
+        "System.Void HospitalManagement.Client.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__24_1>d::MoveNext()": {
+          "Lines": {
+            "35": 0,
+            "47": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 546,
+              "EndOffset": 548,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 546,
+              "EndOffset": 659,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1114,
+              "EndOffset": 1116,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1114,
+              "EndOffset": 1227,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1682,
+              "EndOffset": 1684,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1682,
+              "EndOffset": 1795,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 2268,
+              "EndOffset": 2270,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 2268,
+              "EndOffset": 2381,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 2742,
+              "EndOffset": 2744,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 2742,
+              "EndOffset": 2856,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 3218,
+              "EndOffset": 3220,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 3218,
+              "EndOffset": 3332,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 3843,
+              "EndOffset": 3845,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 3843,
+              "EndOffset": 3957,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

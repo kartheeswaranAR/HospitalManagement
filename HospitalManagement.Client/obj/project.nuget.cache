@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrJ6P4JWCLwr8ARAsmZqOTi1qkPqCFF8nmmW27t/BkbKb/NWjBiKWTHCUR5bMddgFvOPnPSqvaI5BK2xF60yfA==",
+  "success": true,
+  "projectFilePath": "/Users/kartheeswaran/VisualStudio_Projects/HospitalManagement/HospitalManagement.Client/HospitalManagement.Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/kartheeswaran/.nuget/packages/coverlet.msbuild/3.2.0/coverlet.msbuild.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

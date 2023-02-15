@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HospitalManagement.Client/1.0.0": {
+        "dependencies": {
+          "coverlet.msbuild": "3.2.0"
+        },
+        "runtime": {
+          "HospitalManagement.Client.dll": {}
+        }
+      },
+      "coverlet.msbuild/3.2.0": {}
+    }
+  },
+  "libraries": {
+    "HospitalManagement.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coverlet.msbuild/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lu/eJJpqJb4qy3BGPtDD/LI5RSOwXYYyRErTyaG0OTP69llzVK3FEe74hBQx0JtLUTLEVBfERV4uGYcE1Br2sg==",
+      "path": "coverlet.msbuild/3.2.0",
+      "hashPath": "coverlet.msbuild.3.2.0.nupkg.sha512"
+    }
+  }
+}

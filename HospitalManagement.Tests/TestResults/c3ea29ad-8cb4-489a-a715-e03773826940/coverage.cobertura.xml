@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1675666002" lines-covered="0" lines-valid="0" branches-covered="0" branches-valid="0">
+  <sources>
+    <source></source>
+  </sources>
+  <packages>
+    <package name="HospitalManagement.Domain" line-rate="1" branch-rate="1" complexity="0">
+      <classes />
+    </package>
+    <package name="HospitalManagement.Api" line-rate="1" branch-rate="1" complexity="0">
+      <classes />
+    </package>
+    <package name="HospitalManagement.Tests" line-rate="1" branch-rate="1" complexity="0">
+      <classes />
+    </package>
+    <package name="HospitalManagement.Client" line-rate="1" branch-rate="1" complexity="0">
+      <classes />
+    </package>
+  </packages>
+</coverage>
